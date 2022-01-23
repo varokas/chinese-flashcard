@@ -51,9 +51,9 @@ export function App() {
       </div>
       {/* <div className={showDesc ? "" : "hide"}>{words[wordIndex]?.[1]}</div>
       <div className={showDesc ? "" : "hide"}>{words[wordIndex]?.[2]}</div> */}
-      <div className="d-grid gap-2">
-          <Button className='btn-secondary' onClick={() => { setShowDesc(true) } }>Show</Button>
-          <Button className='btn-lg' onClick={() => { setNewWord(getRandomInt(words.length)) } }>Next</Button>
+      <div className="d-grid gap-4">
+          <Button className='tap btn-secondary' onClick={() => { setShowDesc(true) } }>Show</Button>
+          <Button className='tap btn-lg' onClick={() => { setNewWord(getRandomInt(words.length)) } }>Next</Button>
       </div>
       
       
