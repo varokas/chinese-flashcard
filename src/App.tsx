@@ -46,8 +46,8 @@ export function App() {
         <div className="col word">{words[wordIndex]?.[0]}</div>
       </div>
       <div className="d-grid gap-2">
-        <div className={`${showDesc ? "" : "hide"}`}>{words[wordIndex]?.[1]}</div>
-        <div className={`${showDesc ? "" : "hide"}`}>{words[wordIndex]?.[2]}</div>
+        <div className={`desc ${showDesc ? "" : "hide"}`}>{words[wordIndex]?.[1]}</div>
+        <div className={`desc ${showDesc ? "" : "hide"}`}>{words[wordIndex]?.[2]}</div>
       </div>
       {/* <div className={showDesc ? "" : "hide"}>{words[wordIndex]?.[1]}</div>
       <div className={showDesc ? "" : "hide"}>{words[wordIndex]?.[2]}</div> */}

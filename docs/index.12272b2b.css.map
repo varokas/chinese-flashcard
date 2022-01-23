@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MACA,iBACA,CAEA,MACA,cAAA,CACA,iBACA,CAEA,KACA,uBACA,CAEA,MACA,aACA","sources":["src/app.css"],"sourcesContent":[".hide {\n  visibility: hidden;\n}\n\n.word {\n  font-size: 19em;\n  text-align: center;\n}\n\n.tap {\n  font-size: 3em !important;\n}\n\n.desc {\n  font-size: 4em;\n}"],"names":[],"version":3,"file":"index.12272b2b.css.map"}
