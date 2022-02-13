@@ -6,6 +6,13 @@
 <body>
 <outline text="Chinese 1"><outline text="adj"><outline text="美 měi"></outline>
 <outline text="高 gāo"></outline>
+<outline text="where"><outline text="这儿 zhèr - here"></outline>
+<outline text="这里 zhèlǐ - here"></outline>
+</outline>
+<outline text="quantity"><outline text="多 duō many"></outline>
+<outline text="贵 guì expensive"></outline>
+<outline text="便宜 piányi cheap"></outline>
+</outline>
 </outline>
 <outline text="object"><outline text="笔 - bǐ 🖊"><outline text="笔记本 bǐ jì běn"></outline>
 <outline text="支 zhī"></outline>
@@ -28,6 +35,14 @@
 <outline text="床 chuáng 🛏️"></outline>
 <outline text="山 shān ⛰️"></outline>
 <outline text="田 tián (ricefarm)"></outline>
+<outline text="commerce"><outline text="东西 dōngxi"></outline>
+</outline>
+<outline text="food"><outline text="包子 bāoji ซาลาเปา"></outline>
+<outline text="面条 maàntiáo - ก๋วยเตี๋ยว"></outline>
+<outline text="米饭 mǐfàn cooked rice"></outline>
+<outline text="米 mǐ - uncooked rice"></outline>
+<outline text="鱼 yú 🐟"></outline>
+</outline>
 </outline>
 <outline text="Place"><outline text="店 - diàn"><outline text="书店 - shūdiàn 📖"></outline>
 <outline text="词典 - cídiǎn"></outline>
@@ -73,11 +88,11 @@
 </outline>
 <outline text="occupasion"><outline text="老師 - lǎoshī"></outline>
 <outline text="学生 xué sheng"><outline text="班长 bānzhǎng (class leader)"></outline>
+<outline text="同学 tóngxué (school mate)"></outline>
 </outline>
-<outline text="同学 tóngxué"></outline>
 <outline text="朋友 - péngyǒu"></outline>
-<outline text="商人 - shāngrén"></outline>
-<outline text="医生 - yīshēng"></outline>
+<outline text="商人 - shāngrén merchant"></outline>
+<outline text="医生 - yīshēng doctor"></outline>
 </outline>
 </outline>
 <outline text="Counting"><outline text="一二三四五 - yī èr sān sì wù"></outline>
@@ -135,8 +150,20 @@
 <outline text="上课 - shàng kè"></outline>
 <outline text="爱 ài ❤️"></outline>
 <outline text="有 yǒu"></outline>
-<outline text="Direction"><outline text="上 shàng ⬆️"></outline>
+<outline text="Direction"><outline text="上 shàng ⬆️ go"></outline>
 <outline text="下 xià ⬇️"></outline>
+</outline>
+<outline text="Commerce"><outline text="买 mǎi sell"></outline>
+<outline text="卖 mài buy"></outline>
+</outline>
+<outline text="do"><outline text="做 zuò do"></outline>
+<outline text="	说 shuō speak"></outline>
+<outline text="喜欢 xǐhuan - like"></outline>
+<outline text="一块儿 yīkuàir together"></outline>
+<outline text="吃 chī eat"></outline>
+<outline text="听说 tīngshuō - ได้ยินมา"></outline>
+<outline text="听 tīng ฟัง"></outline>
+<outline text="看 kan ดู"></outline>
 </outline>
 </outline>
 </outline>
