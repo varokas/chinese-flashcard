@@ -6,6 +6,7 @@
 <body>
 <outline text="Chinese 1"><outline text="adj"><outline text="美 měi"></outline>
 <outline text="高 gāo"></outline>
+<outline text="新 xīn new"></outline>
 <outline text="where"><outline text="这儿 zhèr - here"></outline>
 <outline text="这里 zhèlǐ - here"></outline>
 </outline>
@@ -28,6 +29,7 @@
 <outline text="电视 diànshì 📺"></outline>
 <outline text="电脑 diànnǎo 💻"></outline>
 <outline text="空调机 kōngtiáojī (aircond)"></outline>
+<outline text="电影 diànyǐng 🎬"></outline>
 <outline text="台 tái"></outline>
 </outline>
 <outline text="纸 zhǐ 📄"><outline text="张 zhāng"></outline>
@@ -61,12 +63,17 @@
 <outline text=""></outline>
 </outline>
 <outline text="Time"><outline text="早 zǎo"></outline>
+<outline text="今天 jīntiān (today)"></outline>
+<outline text="天 tiān day"></outline>
 </outline>
 <outline text="eating"><outline text="饭 fàn"></outline>
 <outline text="吃 chī"></outline>
+<outline text="肉 ròu meat"></outline>
+<outline text=""></outline>
 </outline>
 <outline text="person"><outline text="他,她 - tā"></outline>
 <outline text="group"><outline text="我们 - wǒmen"></outline>
+<outline text="咱们 zánmen (we together)"></outline>
 <outline text="你们 - nǐmen"></outline>
 <outline text="[他她]们 - tāmen"></outline>
 </outline>
@@ -101,6 +108,11 @@
 <outline text="百 - baí"></outline>
 <outline text="两 - liǎng"></outline>
 </outline>
+<outline text="animal"><outline text="鸡 jī 🐔"></outline>
+<outline text="猪 zhū 🐷"></outline>
+<outline text="牛 niú 🐮"></outline>
+<outline text="羊 yáng 🐑"></outline>
+</outline>
 <outline text="Question"><outline text="谁 - sheí (who)"></outline>
 <outline text="什么 shén me"></outline>
 <outline text="哪儿，哪里 - nǎr, nǎlǐ"></outline>
@@ -113,6 +125,8 @@
 <outline text="是 shì"></outline>
 <outline text="很 hěn"></outline>
 <outline text="和 hé (and)"></outline>
+<outline text="跟 gēn (with)"></outline>
+<outline text="只 zhĭ (only)"></outline>
 <outline text="size"><outline text="大 dà"></outline>
 <outline text="小 xiǎo"></outline>
 </outline>
@@ -164,7 +178,14 @@
 <outline text="听说 tīngshuō - ได้ยินมา"></outline>
 <outline text="听 tīng ฟัง"></outline>
 <outline text="看 kan ดู"></outline>
+<outline text="想 xiǎng think"></outline>
 </outline>
+<outline text="work"><outline text="忙 máng busy"></outline>
+<outline text=""></outline>
+</outline>
+<outline text="请客 qǐngkè เลี้ยง,เป็นเจ้ามือ"></outline>
+<outline text="客气 kèqi เกรงใจ"></outline>
+<outline text="不客气 bùkèqi ไม่ต้องเกรงใจ"></outline>
 </outline>
 </outline>
 </body>
