@@ -5,13 +5,14 @@
 </head>
 <body>
 <outline text="Chinese 1"><outline text="adj"><outline text="美 měi"></outline>
+<outline text="真 zhēn real"></outline>
 <outline text="高 gāo"></outline>
 <outline text="新 xīn new"></outline>
 <outline text="where"><outline text="这儿 zhèr - here"></outline>
 <outline text="这里 zhèlǐ - here"></outline>
 </outline>
 <outline text="quantity"><outline text="多 duō many"></outline>
-<outline text="贵 guì expensive"></outline>
+<outline text="贵 guì expensive/honorable"></outline>
 <outline text="便宜 piányi cheap"></outline>
 </outline>
 </outline>
@@ -50,7 +51,7 @@
 <outline text="词典 - cídiǎn"></outline>
 </outline>
 <outline text="家 - jiā 🏠"></outline>
-<outline text="学校 - xué xiào"></outline>
+<outline text="学校 - xué xiào school"></outline>
 <outline text="图书馆 - tú shū guǎn"></outline>
 <outline text="教室 - jiào shì"></outline>
 <outline text="Generic"><outline text="室 shì"></outline>
@@ -64,6 +65,7 @@
 </outline>
 <outline text="Time"><outline text="早 zǎo"></outline>
 <outline text="今天 jīntiān (today)"></outline>
+<outline text="明天 míngtiān"></outline>
 <outline text="天 tiān day"></outline>
 </outline>
 <outline text="eating"><outline text="饭 fàn"></outline>
@@ -112,6 +114,7 @@
 <outline text="猪 zhū 🐷"></outline>
 <outline text="牛 niú 🐮"></outline>
 <outline text="羊 yáng 🐑"></outline>
+<outline text="鱼 yú 🐟"></outline>
 </outline>
 <outline text="Question"><outline text="谁 - sheí (who)"></outline>
 <outline text="什么 shén me"></outline>
@@ -139,7 +142,13 @@
 <outline text="个 gè"></outline>
 <outline text="本 běn"></outline>
 </outline>
-<outline text="Ending"></outline>
+<outline text="叫 jiào called"></outline>
+<outline text="过 guò has been"></outline>
+<outline text="以前 yǐqián in the past"></outline>
+<outline text="一点 yīdiǎnr a bit "></outline>
+<outline text="但是 dànshì but"></outline>
+<outline text="种 zhǒng type"></outline>
+<outline text="还 hái not yet"></outline>
 </outline>
 <outline text="Where to"><outline text="direction"><outline text="去 - qù"></outline>
 <outline text="回 - huí"></outline>
@@ -158,8 +167,10 @@
 <outline text="日本 rìběn"></outline>
 <outline text="韩国 hánguó"></outline>
 <outline text="国 guó"></outline>
+<outline text="语 yǔ language"></outline>
 </outline>
 <outline text="verb"><outline text="知道 - zhīdào"></outline>
+<outline text="高兴 gāoxìng glad"></outline>
 <outline text="看 - kàn"></outline>
 <outline text="上课 - shàng kè"></outline>
 <outline text="爱 ài ❤️"></outline>
@@ -179,6 +190,17 @@
 <outline text="听 tīng ฟัง"></outline>
 <outline text="看 kan ดู"></outline>
 <outline text="想 xiǎng think"></outline>
+<outline text="进 Jìn come in  "></outline>
+<outline text="坐 zùo sit"></outline>
+<outline text="写 xiě write"></outline>
+<outline text="拼音 pīnyīn"></outline>
+<outline text="用 yòng use"></outline>
+</outline>
+<outline text="feel"><outline text="认识 rènshi glad"></outline>
+<outline text="意思 yìsi meaning"></outline>
+</outline>
+<outline text="greeting"><outline text="欢迎 huānyíng welcome"></outline>
+<outline text="机会 jīhuì opportunity"></outline>
 </outline>
 <outline text="work"><outline text="忙 máng busy"></outline>
 <outline text=""></outline>
@@ -186,6 +208,7 @@
 <outline text="请客 qǐngkè เลี้ยง,เป็นเจ้ามือ"></outline>
 <outline text="客气 kèqi เกรงใจ"></outline>
 <outline text="不客气 bùkèqi ไม่ต้องเกรงใจ"></outline>
+<outline text="会 huì สามารถ"></outline>
 </outline>
 </outline>
 </body>
